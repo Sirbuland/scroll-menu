@@ -1,0 +1,8 @@
+.product-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border: 1px solid #dbd9d7;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}

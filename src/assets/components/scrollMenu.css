@@ -1,0 +1,26 @@
+.van-index-bar__sidebar {
+  top: 0;
+  right: initial;
+
+  flex-direction: row;
+  transform: none;
+  width: 80vw;
+  overflow-x: auto;
+  padding: 10px 0;
+  border: 1px solid #dbd9d7;
+  background-color: white;
+}
+
+.van-index-bar__index {
+  white-space: nowrap;
+  padding: 6px 12px;
+  border-radius: 12px;
+}
+
+.van-index-bar__index--active {
+  background-color: black;
+}
+
+.van-index-anchor {
+  padding-top: 56px;
+}
